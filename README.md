@@ -1,2 +1,2 @@
 # WhatsApp-Bot-Upscale-video-dan-Foto-Indonesian
-# Bisa menggunakan Powershell, CMD, dan Termux
+Bisa menggunakan Powershell, CMD, dan Termux
