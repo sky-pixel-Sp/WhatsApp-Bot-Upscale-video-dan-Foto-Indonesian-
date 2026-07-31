@@ -1,0 +1,19 @@
+{
+  "name": "wa-downloader-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk download video (TikTok, YouTube, dll) via yt-dlp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.4.0",
+    "axios": "^1.7.9",
+    "adm-zip": "^0.5.16",
+    "wa-sticker-formatter": "^4.4.4",
+    "jimp": "^0.22.12"
+  }
+}
